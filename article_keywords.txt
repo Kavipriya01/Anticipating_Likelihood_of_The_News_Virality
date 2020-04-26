@@ -1,0 +1,28 @@
+
+Keywords:1		['trumps', 'spectacle', 'live', 'secondguesses', 'subordinates', 'rotating', 'coverage', 'china', 'trump', 'coronavirus', 'update', 'patients', 'hospitals', 'scientists', 'street', 'ministers', 'wuhan']
+
+Keywords:2		['severe', 'siege', 'crisis', 'youeight', 'workers', 'kashmir', 'son', 'status', 'faces', 'state', 'witnessing', 'say', 'shouting', 'mental', 'semiautonomous', 'lockdown', 'health']
+
+Keywords:3		['look', 'churning', 'kim', 'korea', 'kims', 'koreas', 'north', 'regime', 'jongun', 'rumor', 'jonguns', 'pyongyang', 'absence', 'analysts', 'silence']
+
+Keywords:4		['muslims', 'worldthe', 'uncertainty', 'world', 'person', 'month', 'pandemic', 'online', 'images', 'mosque', 'observing', 'ramadan']
+
+Keywords:5		['family', 'trumps', 'sick', 'theres', 'room', 'genteel', 'wear', 'offer', 'briefings', 'toilets', 'separate', 'coronavirus', 'wash', 'caregiver', 'uk', 'member', 'spin']
+
+Keywords:6		['scoffs', 'tend', 'world', 'viruses', 'taught', 'went', 'television', 'worry', 'belarus', 'leader', 'turned', 'suffer', 'lockdowns', 'worse', 'virus']
+
+Keywords:7		['instinct', 'weddings', 'world', 'western', 'marry', 'tiny', 'scramble', 'coming', 'masks', 'couples', 'theodory', 'pandemic', 'gown', 'arab', 'roula', 'lockdown', 'tux', 'marriage']
+
+Keywords:8		['perfect', 'brazil', 'storm', 'symptoms', 'state', 'question', 'watson', 'treat', 'troubles', 'sustained', 'bolsonaro', 'cases', 'test', 'multiply', 'able', 'virus']
+
+Keywords:9		['quoted', 'parodies', 'present', 'world', 'viewer', 'silly', 'shadowsa', 'russians', 'post', 'joined', 'reminds', 'bored', 'words', 'similar', 'son', 'art', 'posted', 'vasilenko']
+
+Keywords:10		['money', 'families', 'áporo', 'mexico', 'freeze', 'lifeline', 'york', 'working', 'times', 'month', 'source', 'migrants', 'received', 'remittances', 'economic', 'cuts', 'passed']
+
+Keywords:11		['panel', 'aide', 'boris', 'attended', 'symptoms', 'secretive', 'state', 'question', 'coronavirus', 'watson', 'treat', 'sustained', 'johnson', 'cases', 'uk', 'test', 'able', 'virus']
+
+Keywords:12		['killed', 'violent', 'ambush', 'way', '12', 'rumangabo', 'rangers', '17', 'vehicle', 'sustained', 'congo', 'spotted', 'village', 'statement', 'park', 'came']
+
+Keywords:13		['mr', 'social', 'rightwing', 'brazil', 'fires', 'view', 'justice', 'sparked', 'psl', 'minister', 'chief', 'bolsonaro', 'statement', 'run', 'party', 'quits', 'turmoil']
+
+Keywords:14		['family', 'softens', 'eu', 'sick', 'report', 'theres', 'room', 'disinformation', 'china', 'wear', 'toilets', 'separate', 'wash', 'pressured', 'covid19', 'caregiver', 'member']
