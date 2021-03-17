@@ -1,6 +1,5 @@
-- Scrape the articles from the news and information website.
-- Scraped data stored in a text format.
-- The text converted into json form .
-- JSON converted into pkl  format.
-- PKL file data preprocessed the the probability of it's virality predicted.
+• Created a program to predict the virality of the news by correlating it with yardstick viral news
+•	News scrapped from various news and information websites using Newspaper package in python
+•	Learned about LDA for topic modelling
+•	The virality of the news can be forecasted using the LDA model
 
